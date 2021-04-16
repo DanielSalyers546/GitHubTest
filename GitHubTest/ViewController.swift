@@ -12,8 +12,12 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("This is a certified hood classic")
+        print(BruhMoment())
     }
 
+    func BruhMoment() {
+        print("Now this is epic")
+    }
 
 }
 
